@@ -11,6 +11,6 @@ def main():
         b = c # Completes the sequence
         if (c % 2 == 0): #If C is evenly divisable by 2 execute below code.
             d = d + c #Stores the even fibonacci value for the later sum of all evens.
-    print("The highest value fibonacci value under 4million is: " + str(c)) #Displaysthe last even fib. num under 4mil
+    print("The highest fibonacci value under 4million is: " + str(c)) #Displaysthe last even fib. num under 4mil
     print("The sum of all EVEN fibonacci values under 4million is: " + str(d)) #Displays the sum of all even fib. numbers
 main() #Runs the program
