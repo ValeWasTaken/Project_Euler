@@ -1,5 +1,3 @@
-#Date completed: 4/2/2014
-
 def main():
     #Start of square of sums block
     n = 0
