@@ -7,6 +7,8 @@ Project Euler problems and solutions I made for them.
 - Project Euler Problem 1 [Completed in: Python & C++]
 - Project Euler Problem 2 [Completed in: Python & C++]
 - Project Euler Problem 3 [Completed in: Python & C++]
+- Project Euler Problem 4 [Completed in: Python]
+- Project Euler Problem 5 [Completed in: Python]
 - Project Euler Problem 6 [Completed in: Python]
 - Project Euler Problem 13 [Completed in: Python]
 - Project Euler Problem 25 [Completed in: Python]
@@ -31,6 +33,16 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 The prime factors of 13195 are 5, 7, 13 and 29.
 What is the largest prime factor of the number 600851475143 ?
+
+<strong>Problem 4: Largest palindrome product</strong>
+
+A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+Find the largest palindrome made from the product of two 3-digit numbers.
+
+<strong>Problem 5: Smallest multiple</strong>
+
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 
 <strong>Problem 6: Sum square difference</strong>
