@@ -6,6 +6,3 @@ def main():
             print(x)
             return 0
 main()
-
-# Note to self 
-# Please optimize this code at a later date, it currently takes far more processing power than is optimal.
