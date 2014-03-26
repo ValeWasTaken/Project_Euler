@@ -11,6 +11,7 @@ Project Euler problems and solutions I made for them.
 - Project Euler Problem 5 [Completed in: Python & C++]
 - Project Euler Problem 6 [Completed in: Python]
 - Project Euler Problem 13 [Completed in: Python]
+- Project Euler Problem 16 [Completed in: Python]
 - Project Euler Problem 25 [Completed in: Python]
 
 <h3>Problem discriptions:</h3>
