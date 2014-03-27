@@ -13,6 +13,7 @@ Project Euler problems and solutions I made for them.
 - Project Euler Problem 13 [Completed in: Python]
 - Project Euler Problem 16 [Completed in: Python]
 - Project Euler Problem 25 [Completed in: Python]
+- Project Euler Problem 48 [Completed in: Python]
 
 <h3>Problem discriptions:</h3>
 
@@ -182,3 +183,7 @@ Hence the first 12 terms will be:
 The 12th term, F12, is the first term to contain three digits.
 What is the first term in the Fibonacci sequence to contain 1000 digits?
 
+<strong> Problem 48: Self Powers </strong>
+
+The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
+Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
