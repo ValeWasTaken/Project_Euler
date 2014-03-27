@@ -6,7 +6,7 @@ def main():
     sum_of_digits = 0
 
     for digit in original_num:
-        sum_of_digits = sum_of_digits + int(digit)
+        sum_of_digits += int(digit)
 
     print(sum_of_digits)
 main()
