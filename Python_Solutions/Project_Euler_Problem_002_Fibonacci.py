@@ -9,7 +9,7 @@ def main():
         a = b # Starts the process of moving onto the next number in the sequence
         b = c # Completes the sequence
         if (c % 2 == 0):
-            d = d + c #Stores the even fibonacci value for the later sum of all evens.
+            d += c #Stores the even fibonacci value for the later sum of all evens.
     print("The highest fibonacci value under 4million is: " + str(c)) 
     print("The sum of all EVEN fibonacci values under 4million is: " + str(d))
 main() 
