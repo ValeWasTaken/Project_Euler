@@ -8,7 +8,7 @@ def main():
         z = x + y #
         x = y     # Fibonacci sequence
         y = z     #
-        counter = counter + 1 #Term counter
+        counter += 1 #Term counter
     print z # Should be: 10700 ... 816
     print counter # Should be 4782
 main()
