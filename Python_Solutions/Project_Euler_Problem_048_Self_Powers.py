@@ -9,5 +9,5 @@ def main():
 main()
 
 #Note: This solution could be one line by using the following below code.
-#However, I did not come up with it, nor do I like it as much as my solution due to readability reasons.
+#However, it's basically the same thing but with worse readability in my opinion.
 #print(str(sum([x**x for x in range(1,1001)]))[-10:])
