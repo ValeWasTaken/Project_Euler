@@ -12,7 +12,9 @@ Project Euler problems and solutions I made for them.
 - Project Euler Problem 6 [Completed in: Python]
 - Project Euler Problem 13 [Completed in: Python]
 - Project Euler Problem 16 [Completed in: Python]
+- Project Euler Problem 20 [Completed in: Python]
 - Project Euler Problem 25 [Completed in: Python]
+- Project Euler Problem 31 [Completed in: Python]
 - Project Euler Problem 48 [Completed in: Python]
 
 <h3>Problem discriptions:</h3>
@@ -161,6 +163,13 @@ Work out the first ten digits of the sum of the following one-hundred 50-digit n
 20849603980134001723930671666823555245252804609722
 53503534226472524250874054075591789781264330331690
 
+<strong>Problem 20: Factorial digit sum</strong>
+
+n! means n × (n − 1) × ... × 3 × 2 × 1
+For example, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800,
+and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
+Find the sum of the digits in the number 100!
+
 <strong>Problem 25: 1000-digit Fibonacci number</strong>
 
 The Fibonacci sequence is defined by the recurrence relation:
@@ -182,6 +191,14 @@ Hence the first 12 terms will be:
 
 The 12th term, F12, is the first term to contain three digits.
 What is the first term in the Fibonacci sequence to contain 1000 digits?
+
+<strong>Problem 31: coin sums</strong>
+
+In England the currency is made up of pound, £, and pence, p, and there are eight coins in general circulation:
+    1p, 2p, 5p, 10p, 20p, 50p, £1 (100p) and £2 (200p).
+It is possible to make £2 in the following way:
+    1×£1 + 1×50p + 2×20p + 1×5p + 1×2p + 3×1p
+How many different ways can £2 be made using any number of coins?
 
 <strong> Problem 48: Self Powers </strong>
 
