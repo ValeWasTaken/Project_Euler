@@ -1,4 +1,4 @@
-public class Project_Euler_Problem_1 {
+public class Project_Euler_Problem_001 {
 	public static void main(String args[]){
 		int answer = 0;
 		for (int x=0; x<1000; x++)
