@@ -9,15 +9,12 @@ int main()
 		c = a + b; // Calculates fibonacci sequence starting at 0,1,1,..
 		std::cout << c << std::endl; // Displays current number in sequence being counted.
 		a = b; // Continues Fibonacci sequence
-		b = c; // 
+		b = c;
+		if (c % 2 == 0)
+		{
+			d += c;
+		}
 	}
-
-	if (c % 2 == 0) //If value "c" is divisable by two..
-	{
-		d = d + c; //.. Then it is an even number and add it to the total sum of even numbers in the sequence.
-	}
-
-	std::cout << "\nThe highest fibonacci value under 4million is: " << c << std::endl;
 	std::cout << "The sum of all EVEN fibonacci values under 4million is: " << d << std::endl;
 
 	char z;			// Used to accept user input before closing console
