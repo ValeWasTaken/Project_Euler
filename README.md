@@ -5,7 +5,7 @@ Project Euler problems and solutions I made for them.
 
 <h2>Table of Contents:</h2>
 - Project Euler Problem 1 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 2 [Completed in: Python, C++, & Java]
+- Project Euler Problem 2 [Completed in: Python, C++, Java, & PHP]
 - Project Euler Problem 3 [Completed in: Python, C++, & Java]
 - Project Euler Problem 4 [Completed in: Python, C++, & Java]
 - Project Euler Problem 5 [Completed in: Python, C++, & Java]
