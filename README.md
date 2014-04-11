@@ -8,7 +8,7 @@ Project Euler problems and solutions I made for them.
 - Project Euler Problem 2 [Completed in: Python, C++, Java, & PHP]
 - Project Euler Problem 3 [Completed in: Python, C++, Java, & PHP]
 - Project Euler Problem 4 [Completed in: Python, C++, & Java]
-- Project Euler Problem 5 [Completed in: Python, C++, & Java]
+- Project Euler Problem 5 [Completed in: Python, C++, Java, & PHP]
 - Project Euler Problem 6 [Completed in: Python, C++, & Java]
 - Project Euler Problem 13 [Completed in: Python]
 - Project Euler Problem 16 [Completed in: Python]
