@@ -7,7 +7,7 @@ while ($x * $x < $num)
 {
 	while($num % $x == 0)
 	{
-		$num = $num / $x;
+		$num /= $x;
 	}
 	$x++;
 }
