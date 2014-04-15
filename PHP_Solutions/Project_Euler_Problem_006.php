@@ -13,7 +13,7 @@ echo "The square of the sum of the first 100 natural numbers is $final_num</br>"
 $num = 0;
 for($y = 0; $y < 101; $y++)
 {
-	$num = $num + ($y*$y);
+	$num += ($y*$y);
 }
 echo "The sum of the squares of the first 100 natural numbers is: $num</br>"; // Expected output: 338350
 
