@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "stdafx.h" // Used for Visual Studio
 #include <iostream>
 using namespace std;
 
@@ -22,7 +22,6 @@ int main()
 		}
 	} while (solution);
 
-	cout << "Smallest Multiple is " << currentMax << "\n";
-	char z;
-	cin >> z;
+	cout << "Smallest Multiple is " << currentMax << "\n\n";
+	system("pause");
 }
