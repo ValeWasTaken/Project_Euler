@@ -17,7 +17,6 @@ int main()
 	}
 	std::cout << "The sum of all EVEN fibonacci values under 4million is: " << d << std::endl;
 
-	char z;			// Used to accept user input before closing console
-	std::cin >> z;	// so that the user can see the output
+	system("pause");
 	return 0;
 }
