@@ -7,7 +7,7 @@ int main()
 	int n = 0;
 	for (int x = 0; x < 101; x++)
 	{
-		n = n + x;
+		n += x;
 	}
 	int final_num = n*n;
 	std::cout << "The square of the sum of the first 100 natural numbers is: " << final_num << std::endl; // Expected output: 25502500
@@ -16,7 +16,7 @@ int main()
 	int num = 0;
 	for (int y = 0; y < 101; y++)
 	{
-		num = num + (y*y);
+		num += (y*y);
 	}
 	std::cout << "The sum of the squares of the first 100 natural numbers is: " << num << std::endl; // Expected output: 338350
 
