@@ -17,8 +17,7 @@ int main()
 	
 	std::cout << "The sum of all multiples of 3 and 5 is " << answer << ".\n\n";
 
-	char z;    // Used to require user input before closing application
-	std::cin >> z;  // .. Thus preventing the application to be closed before the answer can be seen.
+	system("pause");
 	return 0;  
 }
 
