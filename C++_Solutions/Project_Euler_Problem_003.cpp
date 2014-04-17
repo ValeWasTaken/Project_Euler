@@ -14,7 +14,6 @@ int main()
 	}
 	std::cout << num;
 
-	char z;
-	std::cin >> z;
+	system("pause");
 	return 0;
 }
