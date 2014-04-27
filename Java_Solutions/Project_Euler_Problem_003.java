@@ -9,7 +9,7 @@ public class Project_Euler_Problem_003
 		{
 			while (num % x == 0)
 			{
-				num = num / x;
+				num /= x;
 			}
 			x++;
 		}
