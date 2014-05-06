@@ -1,14 +1,13 @@
-#Date completed: 1/2/2014
 def main():
-    x = 0
-    y = 1
-    z = 0
+    x,y,z = 0,1,0
     counter = 1
     while len(str(z)) != 1000: #Length counter
         z = x + y #
-        x = y     # Fibonacci sequence
-        y = z     #
-        counter += 1 #Term counter
-    print z # Should be: 10700 ... 816
-    print counter # Should be 4782
+        x = y # Fibonacci sequence
+        y = z #
+        counter += 1
+    # Add "print z" to display the 1000 digit number.
+    # When checking num it should be: 10700...816
+    print("The " + str(counter) + "nd number in the Fibonacci sequence produces the first 1000 digit number.")
+    # counter, the number printed, should be '4782'.
 main()
