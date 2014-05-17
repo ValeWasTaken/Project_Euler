@@ -8,7 +8,7 @@ int main()
 	{
 		while (num % x == 0)
 		{
-			num /= x; // Expanded form: num = num / x;
+			num /= x; 
 		}
 		x = x++;
 	}
