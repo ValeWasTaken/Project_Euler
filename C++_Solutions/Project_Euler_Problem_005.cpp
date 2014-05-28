@@ -23,5 +23,4 @@ int main()
 	} while (solution);
 
 	cout << "Smallest Multiple is " << currentMax << "\n\n";
-	system("pause");
 }
