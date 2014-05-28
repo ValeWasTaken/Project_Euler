@@ -13,7 +13,5 @@ int main()
 		x = x++;
 	}
 	std::cout << num;
-
-	system("pause");
 	return 0;
 }
