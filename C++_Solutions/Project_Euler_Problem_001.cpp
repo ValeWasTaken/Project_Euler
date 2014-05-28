@@ -14,8 +14,6 @@ int main()
 		}
 	}
 	std::cout << "The sum of all multiples of 3 and 5 is " << answer << ".\n\n";
-
-	system("pause");
 	return 0;  
 }
 
