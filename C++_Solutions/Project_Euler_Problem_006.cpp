@@ -23,5 +23,4 @@ int main()
 	// Final calculation
 	int difference = final_num - num;
 	std::cout << "The difference between the two sums is: " << difference << std::endl; // Expected output: 25164150
-	system("pause");
 }
