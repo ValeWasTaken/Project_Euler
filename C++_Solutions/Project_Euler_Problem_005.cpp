@@ -1,6 +1,4 @@
-#include "stdafx.h" // Used for Visual Studio
 #include <iostream>
-using namespace std;
 
 int main()
 {
@@ -12,15 +10,16 @@ int main()
 		solution = false;
 		currentMax += 20;
 
-		for (int iii = 11; iii < 20; iii++)
+		for (int i = 11; i < 20; i++)
 		{
-			if (currentMax % iii)
+			if (currentMax % i)
 			{
 				solution = true;
 				break;
 			}
 		}
 	} while (solution);
-
-	cout << "Smallest Multiple is " << currentMax << "\n\n";
+	
+	std::cout << "Smallest Multiple is " << currentMax << "\n\n";
+	return 0;
 }
