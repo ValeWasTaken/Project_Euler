@@ -3,6 +3,8 @@ Project_Euler
 
 Project Euler problems and solutions I made for them. 
 
+A list of all problems can be found here: https://projecteuler.net/problems
+
 <h2>Table of Contents:</h2>
 - Project Euler Problem 1 [Completed in: Python, C++, Java, & PHP]
 - Project Euler Problem 2 [Completed in: Python, C++, Java, & PHP]
