@@ -19,7 +19,7 @@ A list of all problems can be found here: https://projecteuler.net/problems
 - Project Euler Problem 31 [Completed in: Python]
 - Project Euler Problem 48 [Completed in: Python]
 
-<h3>Problem discriptions:</h3>
+<h3>Problem descriptions:</h3>
 
 
 <strong>Problem 1: Multiples of 3 and 5</strong>
