@@ -1,4 +1,3 @@
-#include "stdafx.h" // For Visual Studio
 #include <iostream>
 
 int main()
