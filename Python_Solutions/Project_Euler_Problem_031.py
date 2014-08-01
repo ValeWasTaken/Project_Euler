@@ -4,7 +4,6 @@
 # How many ways can 200p be made using any number of coins?
 
 def main():
-
     coins = [1,2,5,10,20,50,100,200]
     goal = 200
     ways = ([1]+[0] * goal)
