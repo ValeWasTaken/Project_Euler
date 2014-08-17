@@ -1,7 +1,3 @@
-#Project Euler Problem 20 - Factorial Digit Sum
-#Find the sum of the digits in the number 100!
-#100! = 100 * 99 * 98 ... * 2 * 1
-
 def main():
     count = 101
     sum_of_digits = 0 
@@ -18,4 +14,3 @@ def main():
 
     print(sum_of_digits)
 main()
-
