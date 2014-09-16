@@ -1,8 +1,5 @@
 def main():
-    a = 0 
-    b = 1 
-    c = 0 
-    d = 0 
+    a,b,c,d = 0,1,0,0 
     while (c < 3500000): 
         c = a + b #Calculates Fibonacci sequence starting with: 0,1,1,..
         print c #Displays the current number in the sequence being counted
