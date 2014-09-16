@@ -12,6 +12,7 @@ A list of all problems can be found here: https://projecteuler.net/problems
 - Project Euler Problem 4 [Completed in: Python, C++, & Java]
 - Project Euler Problem 5 [Completed in: Python, C++, Java, & PHP]
 - Project Euler Problem 6 [Completed in: Python, C++, Java, & PHP]
+- Project Euler Problem 7 [Completed in: Python]
 - Project Euler Problem 13 [Completed in: Python]
 - Project Euler Problem 16 [Completed in: Python]
 - Project Euler Problem 20 [Completed in: Python]
@@ -68,6 +69,13 @@ Hence the difference between the sum of the squares of the first ten natural num
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 <BR>
 URL : https://projecteuler.net/problem=6
+
+<strong>Problem 7: 10001st prime</strong>
+<BR>
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+What is the 10 001st prime number?
+<BR>
+URL : https://projecteuler.net/problem=7
 
 <strong>Problem 13: Large sum</strong>
 <BR>
