@@ -6,19 +6,19 @@ Project Euler problems and solutions I made for them.
 A list of all problems can be found here: https://projecteuler.net/problems
 
 <h2>Table of Contents:</h2>
-- Project Euler Problem 1 [Completed in: Python, C++, Java, PHP, & JavaScript]
-- Project Euler Problem 2 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 3 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 4 [Completed in: Python, C++, & Java]
-- Project Euler Problem 5 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 6 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 7 [Completed in: Python]
-- Project Euler Problem 13 [Completed in: Python]
-- Project Euler Problem 16 [Completed in: Python]
-- Project Euler Problem 20 [Completed in: Python]
-- Project Euler Problem 25 [Completed in: Python]
-- Project Euler Problem 31 [Completed in: Python]
-- Project Euler Problem 48 [Completed in: Python]
+- Project Euler Problem 001 [Completed in: Python, C++, Java, PHP, & JavaScript]
+- Project Euler Problem 002 [Completed in: Python, C++, Java, & PHP]
+- Project Euler Problem 003 [Completed in: Python, C++, Java, & PHP]
+- Project Euler Problem 004 [Completed in: Python, C++, & Java]
+- Project Euler Problem 005 [Completed in: Python, C++, Java, & PHP]
+- Project Euler Problem 006 [Completed in: Python, C++, Java, & PHP]
+- Project Euler Problem 007 [Completed in: Python]
+- Project Euler Problem 013 [Completed in: Python]
+- Project Euler Problem 016 [Completed in: Python]
+- Project Euler Problem 020 [Completed in: Python]
+- Project Euler Problem 025 [Completed in: Python]
+- Project Euler Problem 031 [Completed in: Python]
+- Project Euler Problem 048 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
 
