@@ -1,12 +1,11 @@
 def main():
     a,b,c,d = 0,1,0,0 
     while (c < 3500000): 
-        c = a + b #Calculates Fibonacci sequence starting with: 0,1,1,..
-        print c #Displays the current number in the sequence being counted
-        a = b # Starts the process of moving onto the next number in the sequence
-        b = c # Completes the sequence
+        c = a + b
+        a = b
+        b = c
         if (c % 2 == 0):
-            d += c #Stores the even fibonacci value for the later sum of all evens.
+            d += c
     print("The highest fibonacci value under 4million is: " + str(c)) 
     print("The sum of all EVEN fibonacci values under 4million is: " + str(d))
 main() 
