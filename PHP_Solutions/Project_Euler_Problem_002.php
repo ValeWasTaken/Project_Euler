@@ -10,8 +10,5 @@ while ($c < 3500000)
 	{
 		$d += $c;
 	}
-}
-
-echo "The sum of all EVEN fibonacci values under 4 million is: " + $d;
-// Expected answer: 4613732
+}	echo "The sum of all EVEN fibonacci values under 4 million is: " + $d; // Expected answer: 4613732
 ?>
