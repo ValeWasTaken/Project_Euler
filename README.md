@@ -19,6 +19,7 @@ A list of all problems can be found here: https://projecteuler.net/problems
 - Project Euler Problem 025 [Completed in: Python]
 - Project Euler Problem 031 [Completed in: Python]
 - Project Euler Problem 048 [Completed in: Python]
+- Project Euler Problem 145 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
 
@@ -127,9 +128,17 @@ How many different ways can £2 be made using any number of coins?
 <BR>
 URL : https://projecteuler.net/problem=31
 
-<strong> Problem 48: Self Powers </strong>
+<strong>Problem 48: Self Powers</strong>
 <BR>
 The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
 <BR>
 URL : https://projecteuler.net/problem=48
+
+<strong>Problem 145: How many reversible numbers are there below one-billion?</strong>
+<BR>
+Some positive integers n have the property that the sum [ n + reverse(n) ] consists entirely of odd (decimal) digits. For instance, 36 + 63 = 99 and 409 + 904 = 1313. We will call such numbers reversible; so 36, 63, 409, and 904 are reversible. Leading zeroes are not allowed in either n or reverse(n).
+
+How many reversible numbers are there below one-billion (10^9)?
+<BR>
+URL : https://projecteuler.net/problem=145
