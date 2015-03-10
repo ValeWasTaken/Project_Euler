@@ -8,7 +8,8 @@ A list of all problems can be found here: https://projecteuler.net/problems
 To find a specific problem simply add the number of the program to the end of the URL. :
 <BR>
 **https://projecteuler.net/problem=**
-
+-<BR>
+-*Example: https://projecteuler.net/problem=1*
 
 <h2>Table of Contents:</h2>
 - Project Euler Problem 001 [Completed in: Python, C++, Java, PHP, & JavaScript]
