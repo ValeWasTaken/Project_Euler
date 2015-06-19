@@ -9,7 +9,7 @@ To find a specific problem simply add the number of the program to the end of th
 <BR>
 **https://projecteuler.net/problem=**
 <BR>
--*Example: https://projecteuler.net/problem=1*
+Example: https://projecteuler.net/problem=1
 
 <h2>Table of Contents:</h2>
 - Project Euler Problem 001 [Completed in: Python, C++, Java, PHP, & JavaScript]
