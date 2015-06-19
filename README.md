@@ -25,6 +25,7 @@ To find a specific problem simply add the number of the program to the end of th
 - Project Euler Problem 025 [Completed in: Python]
 - Project Euler Problem 031 [Completed in: Python]
 - Project Euler Problem 048 [Completed in: Python]
+- Project Euler Problem 056 [Completed in: Python]
 - Project Euler Problem 145 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -109,6 +110,11 @@ How many different ways can £2 be made using any number of coins?
 <BR>
 The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
+<BR>
+
+<strong>Problem 56: Powerful digit sum</strong>
+<BR>
+Find the greatest sum of the digits within A^B where A and B can be any natural number under 100.
 <BR>
 
 <strong>Problem 145: How many reversible numbers are there below one-billion?</strong>
