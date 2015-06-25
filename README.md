@@ -5,28 +5,22 @@ Project Euler problems and solutions I made for them.
 
 A list of all problems can be found here: https://projecteuler.net/problems
 
-To find a specific problem simply add the number of the program to the end of the URL. :
-<BR>
-**https://projecteuler.net/problem=**
-<BR>
-Example: https://projecteuler.net/problem=1
-
 <h2>Table of Contents:</h2>
-- Project Euler Problem 001 [Completed in: Python, C++, Java, PHP, & JavaScript]
-- Project Euler Problem 002 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 003 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 004 [Completed in: Python, C++, & Java]
-- Project Euler Problem 005 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 006 [Completed in: Python, C++, Java, & PHP]
-- Project Euler Problem 007 [Completed in: Python]
-- Project Euler Problem 013 [Completed in: Python]
-- Project Euler Problem 016 [Completed in: Python]
-- Project Euler Problem 020 [Completed in: Python]
-- Project Euler Problem 025 [Completed in: Python]
-- Project Euler Problem 031 [Completed in: Python]
-- Project Euler Problem 048 [Completed in: Python]
-- Project Euler Problem 056 [Completed in: Python]
-- Project Euler Problem 145 [Completed in: Python]
+- <a href="https://projecteuler.net/problem=1">Project Euler Problem 001</a> [Completed in: Python, C++, Java, PHP, & JavaScript]
+- <a href="https://projecteuler.net/problem=2">Project Euler Problem 002</a> [Completed in: Python, C++, Java, & PHP]
+- <a href="https://projecteuler.net/problem=3">Project Euler Problem 003</a> [Completed in: Python, C++, Java, & PHP]
+- <a href="https://projecteuler.net/problem=4">Project Euler Problem 004</a> [Completed in: Python, C++, & Java]
+- <a href="https://projecteuler.net/problem=5">Project Euler Problem 005</a> [Completed in: Python, C++, Java, & PHP]
+- <a href="https://projecteuler.net/problem=6">Project Euler Problem 006</a> [Completed in: Python, C++, Java, & PHP]
+- <a href="https://projecteuler.net/problem=7">Project Euler Problem 007</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=13">Project Euler Problem 013</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=16">Project Euler Problem 016</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=20">Project Euler Problem 020</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=25">Project Euler Problem 025</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=31">Project Euler Problem 031</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=48">Project Euler Problem 048</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=56">Project Euler Problem 056</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=145">Project Euler Problem 145</a> [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
 
