@@ -13,6 +13,7 @@ A list of all problems can be found here: https://projecteuler.net/problems
 - <a href="https://projecteuler.net/problem=5">Project Euler Problem 005</a> [Completed in: C++, Java, PHP,& Python]
 - <a href="https://projecteuler.net/problem=6">Project Euler Problem 006</a> [Completed in: C++, Java, PHP,& Python]
 - <a href="https://projecteuler.net/problem=7">Project Euler Problem 007</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=10">Project Euler Problem 010</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=13">Project Euler Problem 013</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=16">Project Euler Problem 016</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=20">Project Euler Problem 020</a> [Completed in: Python]
@@ -70,6 +71,12 @@ Find the difference between the sum of the squares of the first one hundred natu
 <BR>
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 What is the 10 001st prime number?
+<BR>
+
+<strong>Problem 10: Summation of primes</strong>
+<BR>
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+Find the sum of all the primes below two million.
 <BR>
 
 <strong>Problem 13: Large sum</strong>
