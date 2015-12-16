@@ -15,6 +15,7 @@ A list of all problems can be found here: https://projecteuler.net/problems
 - <a href="https://projecteuler.net/problem=7">Project Euler Problem 007</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=10">Project Euler Problem 010</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=13">Project Euler Problem 013</a> [Completed in: Python]
+- <a href="https://projecteuler.net/problem=14">Project Euler Problem 014</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=16">Project Euler Problem 016</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=20">Project Euler Problem 020</a> [Completed in: Python]
 - <a href="https://projecteuler.net/problem=25">Project Euler Problem 025</a> [Completed in: Python]
@@ -82,7 +83,11 @@ Find the sum of all the primes below two million.
 <strong>Problem 13: Large sum</strong>
 <BR>
 Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-[number]
+<BR>
+
+<strong>Problem 13: Longest Collatz Sequence</strong>
+<BR>
+Which starting number, under one million, produces the longest chain?
 <BR>
 
 <strong>Problem 20: Factorial digit sum</strong>
