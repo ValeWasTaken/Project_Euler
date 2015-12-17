@@ -6,9 +6,9 @@ Project Euler problems and solutions I made for them.
 A list of all problems can be found here: https://projecteuler.net/problems
 
 <h2>Table of Contents:</h2>
-- <a href="https://projecteuler.net/problem=1">Project Euler Problem 001</a> [Completed in: C++, JavaScript, Java, PHP & Python]
-- <a href="https://projecteuler.net/problem=2">Project Euler Problem 002</a> [Completed in: C++, Java, PHP,& Python]
-- <a href="https://projecteuler.net/problem=3">Project Euler Problem 003</a> [Completed in: C++, Java, PHP,& Python]
+- <a href="https://projecteuler.net/problem=1">Project Euler Problem 001</a> [Completed in: C++, JavaScript, Java, PHP, & Python]
+- <a href="https://projecteuler.net/problem=2">Project Euler Problem 002</a> [Completed in: C++, Java, PHP, & Python]
+- <a href="https://projecteuler.net/problem=3">Project Euler Problem 003</a> [Completed in: C++, Java, PHP, & Python]
 - <a href="https://projecteuler.net/problem=4">Project Euler Problem 004</a> [Completed in: C++, Java, & Python]
 - <a href="https://projecteuler.net/problem=5">Project Euler Problem 005</a> [Completed in: C++, Java, PHP, & Python]
 - <a href="https://projecteuler.net/problem=6">Project Euler Problem 006</a> [Completed in: C++, Java, PHP, & Python]
