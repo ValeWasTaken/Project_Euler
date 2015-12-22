@@ -21,6 +21,7 @@ A list of all problems can be found here: https://projecteuler.net/problems
 - <a href="https://projecteuler.net/problem=25">Project Euler Problem 025</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_025.py">Python</a>]
 - <a href="https://projecteuler.net/problem=31">Project Euler Problem 031</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_031.py">Python</a>]
 - <a href="https://projecteuler.net/problem=48">Project Euler Problem 048</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_048.py">Python</a>]
+- <a href="https://projecteuler.net/problem=52">Project Euler Problem 052</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_052.py">Python</a>]
 - <a href="https://projecteuler.net/problem=56">Project Euler Problem 056</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_056.py">Python</a>]
 - <a href="https://projecteuler.net/problem=145">Project Euler Problem 145</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_145.py">Python</a>]
 
@@ -114,8 +115,13 @@ How many different ways can £2 be made using any number of coins?
 
 <strong>Problem 48: Self Powers</strong>
 <BR>
-The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
+<BR>
+
+<strong>Problem 52: Permuted multiples</strong>
+<BR>
+It can be seen that the number, 125874, and its double, 251748, contain exactly the same digits, but in a different order.
+Find the smallest positive integer, x, such that 2x, 3x, 4x, 5x, and 6x, contain the same digits.
 <BR>
 
 <strong>Problem 56: Powerful digit sum</strong>
