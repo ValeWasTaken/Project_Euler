@@ -1,21 +1,13 @@
-def is_prime(n):
-    if n % 2 == 0: return False
-    p = 3
-    while p < n**0.5+1:
-        if n % p == 0: return False
-        p += 2
-    return True
- 
-def nth_prime(n):
-    count,prime,iter = 1,2,3
-    while count < n:
-        if is_prime(iter):
-            prime = iter
-            count += 1
-        iter += 2
-    return prime
+def problem_007(limit=104750):
+    answer = 0
+    
+    # Sieve of Eratosthenes
+    sieve = [True] * (limit + 1)
+    for num in range(2, limit + 1):
+        if sieve[num]:
+           answer = num
+           for i in range(num * num, limit + 1, num):
+               sieve[i] = False
 
-def main():
-    desiredPrime = input("Enter the xth prime number you wish to find: ")
-    print("the xth prime number you desired is: "+str(nth_prime(desiredPrime)))
-main()
+    return answer
+print(problem_007())
