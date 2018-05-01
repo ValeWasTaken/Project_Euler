@@ -6,6 +6,7 @@ Project Euler problems and solutions I made for them.
 A list of all problems can be found here: https://projecteuler.net/problems
 
 <h2>Table of Contents:</h2>
+
 - <a href="https://projecteuler.net/problem=1">Project Euler Problem 001</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/C%2B%2B_Solutions/Project_Euler_Problem_001.cpp">C++</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/JavaScript_Solutions/Project_Euler_Problem_001.js">JavaScript</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Java_Solutions/Project_Euler_Problem_001.java">Java</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/PHP_Solutions/Project_Euler_Problem_001.php">PHP</a>, & <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_001.py">Python</a>]
 - <a href="https://projecteuler.net/problem=2">Project Euler Problem 002</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/C%2B%2B_Solutions/Project_Euler_Problem_002.cpp">C++</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Java_Solutions/Project_Euler_Problem_002.java">Java</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/PHP_Solutions/Project_Euler_Problem_002.php">PHP</a>, & <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_002.py">Python</a>]
 - <a href="https://projecteuler.net/problem=3">Project Euler Problem 003</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/C%2B%2B_Solutions/Project_Euler_Problem_003.cpp">C++</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Java_Solutions/Project_Euler_Problem_003.java">Java</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/PHP_Solutions/Project_Euler_Problem_003.php">PHP</a>, & <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_003.py">Python</a>]
@@ -13,6 +14,7 @@ A list of all problems can be found here: https://projecteuler.net/problems
 - <a href="https://projecteuler.net/problem=5">Project Euler Problem 005</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/C%2B%2B_Solutions/Project_Euler_Problem_005.cpp">C++</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Java_Solutions/Project_Euler_Problem_005.java">Java</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/PHP_Solutions/Project_Euler_Problem_005.php">PHP</a>, & <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_005.py">Python</a>]
 - <a href="https://projecteuler.net/problem=6">Project Euler Problem 006</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/C%2B%2B_Solutions/Project_Euler_Problem_006.cpp">C++</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Java_Solutions/Project_Euler_Problem_006.java">Java</a>, <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/PHP_Solutions/Project_Euler_Problem_006.php">PHP</a>, & <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_006.py">Python</a>]
 - <a href="https://projecteuler.net/problem=7">Project Euler Problem 007</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_007.py">Python</a>]
+- <a href="https://projecteuler.net/problem=8">Project Euler Problem 008</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_008.py">Python</a>]
 - <a href="https://projecteuler.net/problem=10">Project Euler Problem 010</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_010.py">Python</a>]
 - <a href="https://projecteuler.net/problem=13">Project Euler Problem 013</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_013.py">Python</a>]
 - <a href="https://projecteuler.net/problem=14">Project Euler Problem 014</a> [Completed in: <a href="https://github.com/ArnoldM904/Project_Euler/blob/master/Python_Solutions/Project_Euler_Problem_014.py">Python</a>]
@@ -73,6 +75,12 @@ Find the difference between the sum of the squares of the first one hundred natu
 <BR>
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 What is the 10 001st prime number?
+<BR>
+    
+<strong>Problem 8: Largest product in a series</strong>
+<BR>
+Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. 
+What is the value of this product?
 <BR>
 
 <strong>Problem 10: Summation of primes</strong>
